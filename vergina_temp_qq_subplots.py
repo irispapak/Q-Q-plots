@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-""" This program plots the temperature (mean, max, min) quantiles per 5% (Q-Q plots) for each subregion and simulation. """
+""" This program calculates and plots the quantiles of temperature (mean, max, min) per 5% (Q-Q plots) for each subregion and simulation. """
 
 
 # round to the nearest multiple of 5
